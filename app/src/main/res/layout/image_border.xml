@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"  android:layout_height="50dp" android:layout_width="wrap_content"  >
+
+    <!-- view background color -->
+    <!--<solid android:color="@color/bg_msg_from" >-->
+    <solid android:color="#AFFF33">
+
+    </solid>
+
+    <corners android:radius="14dp"  android:color="#000000">
+    </corners>
+
+</shape>

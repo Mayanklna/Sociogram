@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "551494589788",
+    "firebase_url": "https://sociogram-44a50.firebaseio.com",
+    "project_id": "sociogram-44a50",
+    "storage_bucket": "sociogram-44a50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551494589788:android:8f1a794558da2eba1bf599",
+        "android_client_info": {
+          "package_name": "com.example.sociogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551494589788-s9nva7itgrhspbggnlhnecho3ekiiqs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sociogram",
+            "certificate_hash": "1c1e080df5c7e1965872c8265183180fe99e6097"
+          }
+        },
+        {
+          "client_id": "551494589788-dactasdonnnen5d9tkhufq671qfhm81v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY5DOoBSlR2wrm9yQVGAKK5JrVcBhLPG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551494589788-dactasdonnnen5d9tkhufq671qfhm81v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

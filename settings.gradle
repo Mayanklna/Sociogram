@@ -1,0 +1,2 @@
+rootProject.name='Sociogram'
+include ':app'
